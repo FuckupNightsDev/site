@@ -1,0 +1,23 @@
+.contact-main-container {
+  width: 100%;
+  margin-top: 60px;
+  min-height: 550px;
+  background-image: url('/img/slider/fun-1.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.contact-container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: rgba(255,255,255,0.75);
+  height: 400px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.contact-form {
+  width: 89%;
+  margin-top: 10px;
+  margin-left: 5.5%;
+}

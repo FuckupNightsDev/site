@@ -1,0 +1,14 @@
+# OS generated files #
+######################
+.DS_Store*
+*.ai
+*.psd
+ehthumbs.db
+Thumbs.db
+*.xcuserstate
+*.xcsettings
+*.xcbkptlist
+*.xcscheme
+*xcuserdata*
+.vagrant
+.project
