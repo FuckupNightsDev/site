@@ -1,0 +1,64 @@
+.city-1 {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-image: url('/img/content/content-1.jpg');
+  background-size: auto 100%;
+  background-position: left top;
+  cursor: pointer;
+}
+
+.city-2 {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-image: url('/img/content/content-2.jpg');
+  background-size: auto 100%;
+  background-position: left top;
+  cursor: pointer;
+}
+
+.city-3 {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-image: url('/img/content/content-3.jpg');
+  background-size: auto 100%;
+  background-position: left top;
+  cursor: pointer;
+}
+
+.city-4 {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-image: url('/img/content/content-4.jpg');
+  background-size: auto 100%;
+  background-position: left top;
+  cursor: pointer;
+}
+
+.city-5 {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-image: url('/img/content/content-5.jpg');
+  background-size: auto 100%;
+  background-position: left top;
+  cursor: pointer;
+}
+
+.city-layer {
+  position: relative;
+  left: 0px;
+  top: 0px;
+  display: block;
+  width: 50%;
+  height: 100%;
+}
+
+.city-name {
+  width: auto;
+  height: 10%;
+  width: 100%;
+  font-size: 1.0em;
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 45%;
+}

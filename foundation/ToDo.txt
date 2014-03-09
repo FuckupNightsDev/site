@@ -1,0 +1,26 @@
+Secciones Admin:
+
+  1. Dashboard (Listado de Ciudades organizadas por continente)
+    - Shortcut a ADD City
+  2. Admin Ciudad
+    - Navegación con breadcrumbs
+    - Información general de la Ciudad
+    - Lista de Organizadores (Shortcut a ADD Organizer)
+    - Lista de Eventos Próximos (Shortcut a ADD Event)
+    - Lista de Contenido (Shortcut a ADD Content)
+  3. Crear Organizador
+    - Nombre
+    - Correo
+    - Permisos (?)
+    - Foto (?)
+  4. Crear Evento
+    - Fecha
+    - Foro
+    - Costo (?)
+    - Descripción
+  5. Crear Contenido
+    - Seleccionar tipo
+    - Título
+    - Contenido
+    - Agregar link multimedia
+    - Agregar galería
