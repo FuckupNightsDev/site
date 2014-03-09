@@ -46,3 +46,48 @@
   font-size: 0.8em;
   font-style: italic;
 }
+
+.next-fun-event {
+  min-height: 100px;
+  border: 1px #7F8C8D dotted;
+  margin-top: 0px;
+  padding: 20px;
+}
+
+.next-fun-event span.left {
+  font-size: 1.2em;
+  font-weight: bolder;
+}
+
+.next-fun-event span.right {
+  font-size: 1.0em;
+  font-weight: bold;
+  background-color: rgba(230, 126, 34, 0.75);
+  color: #FFFFFF;
+  padding: 2px 5px;
+  border-radius: 3px;
+  moz-border-radius: 3px;
+}
+
+.next-fun-event p {
+  margin-top: 15px;
+  font-size: 0.8em;
+  font-weight: bold;
+  font-style: italic;
+  height: 20px;
+  max-height: 20px;
+  min-height: 20px;
+  background-image: url('/img/ticket.png');
+  background-size: 18px 18px;
+  background-position: 100% 0px;
+  background-repeat: no-repeat;
+  margin-bottom: 5px;
+}
+
+.next-fun-event p.event-time {
+  margin-top: 0px;
+  font-size: 0.8em;
+  font-weight: normal;
+  font-style: normal;
+  background-image: none;
+}

@@ -47,9 +47,9 @@
 }
 
 .fun-featured-event {
-  height: 50px;
-  max-height: 50px;
-  min-height: 50px;
+  height: 125px;
+  max-height: 125px;
+  min-height: 125px;
   border-bottom: 1px #7F8C8D dotted;
   margin-top: 5px;
 }
@@ -79,6 +79,30 @@
   background-size: 18px 18px;
   background-position: 100% 0px;
   background-repeat: no-repeat;
+  margin-bottom: 5px;
+}
+
+.fun-featured-event p.address {
+  margin-top: 0px;
+  font-size: 0.6em;
+  font-weight: normal;
+  font-style: normal;
+  height: 40px;
+  max-height: 40px;
+  min-height: 40px;
+  background-image: none;
+  margin-bottom: 0px;
+}
+
+.fun-featured-event p.event-time {
+  margin-top: 0px;
+  font-size: 0.7em;
+  font-weight: bold;
+  font-style: normal;
+  height: 40px;
+  max-height: 40px;
+  min-height: 40px;
+  background-image: none;
 }
 
 p.fun-feed-row {
@@ -297,7 +321,7 @@ a.button.round-button.action-button:hover {
 }
 
 .swMain ul.fun-wizard-steps.anchor li {
-  width: 50%;
+  width: 100%;
 }
 
 .swMain ul.fun-wizard-steps.anchor li a.selected { 
@@ -330,7 +354,7 @@ a.button.round-button.action-button:hover {
 }
 
 .funStepDesc {
-  font: bold 20px Verdana, Arial, Helvetica, sans-serif
+  font: bold 18px Verdana, Arial, Helvetica, sans-serif
 }
 
 div#step-1.fun-step-content.content,
